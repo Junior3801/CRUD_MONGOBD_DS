@@ -1,0 +1,13 @@
+{
+  "name": "proyecto-mongodb",
+  "version": "1.0.0",
+  "description": "Proyecto CRUD con Node.js y MongoDB Compass",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1",
+    "mongoose": "^9.2.1"
+  }
+}
